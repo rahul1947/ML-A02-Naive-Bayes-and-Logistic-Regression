@@ -3,12 +3,12 @@
 - [Rahul Nalawade](https://github.com/rahul1947) 
 
 #### Problem: 
-[Assignment 02]()
+[Assignment 02](https://github.com/rahul1947/ML-A02-Naive-Bayes-and-Logistic-Regression/blob/master/Assignment%202.pdf)
 
 #### Solution:
-[NaiveBayes]()
-[LogisticRegression]()
-[Report]()
+[NaiveBayes](https://github.com/rahul1947/ML-A02-Naive-Bayes-and-Logistic-Regression/blob/master/NaiveBayes.java)
+[LogisticRegression](https://github.com/rahul1947/ML-A02-Naive-Bayes-and-Logistic-Regression/blob/master/LogisticRegression.java)
+[Report](https://github.com/rahul1947/ML-A02-Naive-Bayes-and-Logistic-Regression/blob/master/rsn170330_A02.pdf)
 
 ### How to Run:
 
