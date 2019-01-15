@@ -1,5 +1,5 @@
 ## ML-A02: Naive Bayes and Logistic Regression
-Implementation of Naive Bayes and Logistic Regression Algorithms for Assignment 02 in the course CS6375: Machine Learning.
+###### Implementation of Naive Bayes and Logistic Regression Algorithms for Assignment 02 in the course CS6375: Machine Learning.
 
 - [Rahul Nalawade](https://github.com/rahul1947) 
 
